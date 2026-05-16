@@ -1,0 +1,8 @@
+# curl command with output:
+curl -s https://api.github.com/repos/LARRYSONB/mcino-Introduction-to-Git-a
+nd-GitHub | jq -r '.parent.clone_url'
+https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub.git
+
+
+# GitHub URL:
+https://github.com/LARRYSONB/mcino-Introduction-to-Git-and-GitHub
