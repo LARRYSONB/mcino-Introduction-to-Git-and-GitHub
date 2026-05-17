@@ -1,20 +1,7 @@
 # curl command with output:
 curl -s https://api.github.com/repos/LARRYSONB/mcino-Introduction-to-Git-a
 nd-GitHub | jq -r '.parent.clone_url'
-# GitHub repository URL:
-(https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub.git)
-
-
-1- # GitHub URL:
-https://github.com/LARRYSONB/mcino-Introduction-to-Git-and-GitHub
-2- # Apache Licence URL:
-https://github.com/LARRYSONB/mcino-Introduction-to-Git-and-GitHub/blob/main/LICENSE
-3- # code of conduct URL:
-https://github.com/LARRYSONB/mcino-Introduction-to-Git-and-GitHub/blob/main/CODE_OF_CONDUCT.md
-4- # Contributing.md URL:
-https://github.com/LARRYSONB/mcino-Introduction-to-Git-and-GitHub/blob/main/CONTRIBUTING.md
-5- # simple-interest.sh URL:
-https://github.com/LARRYSONB/mcino-Introduction-to-Git-and-GitHub/blob/main/simple-interest.sh
+https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub.git
 
 #branch main URL:
 https://github.com/LARRYSONB/mcino-Introduction-to-Git-and-GitHub/tree/main
