@@ -6,3 +6,18 @@ https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-Gi
 
 # GitHub URL:
 https://github.com/LARRYSONB/mcino-Introduction-to-Git-and-GitHub
+
+# Terminal output of the first merge:
+$ git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+theia@theia-larrysonbiya:/home/project/mcino-Introduction-to-Git-and-GitHu
+b$ git branch
+  bug-fix-typo
+* main
+theia@theia-larrysonbiya:/home/project/mcino-Introduction-to-Git-and-GitHu
+b$ git merge bug-fix-typo
+Updating 1c2b219..8508030
+Fast-forward
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
