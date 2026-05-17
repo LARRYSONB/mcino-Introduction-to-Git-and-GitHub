@@ -1,0 +1,5 @@
+# All the branches with thier respective status:
+$ git branch -vv
+  bug-fix-revert 2c296e5 [origin/bug-fix-revert] Revert "changed copy right date adding on year"
+  bug-fix-typo   8508030 [origin/bug-fix-typo] changed copy right date adding on year
+* main           8508030 [origin/main] changed copy right date adding on year
