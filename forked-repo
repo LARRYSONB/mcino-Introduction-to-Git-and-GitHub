@@ -9,6 +9,8 @@ nd-GitHub | jq -r '.parent.clone_url'
 https://github.com/LARRYSONB/mcino-Introduction-to-Git-and-GitHub
 2- # Apache Licence URL:
 https://github.com/LARRYSONB/mcino-Introduction-to-Git-and-GitHub/blob/main/LICENSE
+3- # code of conduct URL:
+https://github.com/LARRYSONB/mcino-Introduction-to-Git-and-GitHub/blob/main/CODE_OF_CONDUCT.md
 
 #branch main URL:
 https://github.com/LARRYSONB/mcino-Introduction-to-Git-and-GitHub/tree/main
